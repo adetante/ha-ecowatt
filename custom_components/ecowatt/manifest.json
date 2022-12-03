@@ -1,0 +1,18 @@
+{
+  "domain": "ecowatt",
+  "name": "ecowatt",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/ecowatt",
+  "requirements": [
+    "pyecowatt==0.1.10"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@adetante"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "0.0.1"
+}
